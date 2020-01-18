@@ -6,11 +6,11 @@
 
 ---名詞解釋---  
 
-bandpass: 在某個頻帶通過訊號  
-f0: 在bandpass signal中定義的一個中心頻率(與fc不同)  
-fc(carrier): 通過傳送管道的載波(不一定在中心點, ex:電視訊號就在偏向左邊)
-real signal: 波是觀察的到的(儀器能夠感測到)
-spectrum: 頻譜，指的是頻帶上的形狀
+1. bandpass: 在某個頻帶通過訊號  
+2. f0: 在bandpass signal中定義的一個中心頻率(與fc不同)  
+3. fc(carrier): 通過傳送管道的載波(不一定在中心點, ex:電視訊號就在偏向左邊)
+4. real signal: 波是觀察的到的(儀器能夠感測到)
+5. spectrum: 頻譜，指的是頻帶上的形狀
 
 ---補充---  
 
