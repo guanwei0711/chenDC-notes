@@ -10,9 +10,10 @@ bandpass: 在某個頻帶通過訊號
 f0: 在bandpass signal中定義的一個中心頻率(與fc不同)  
 fc(carrier): 通過傳送管道的載波(不一定在中心點, ex:電視訊號就在偏向左邊)
 real signal: 波是觀察的到的(儀器能夠感測到)
-
+spectrum: 頻譜，指的是頻帶上的形狀
 
 ---補充---  
 
-傅立葉轉換，在"time domain受限"的話在"frequency domain一定不能受限"  
-故，實際上左右兩側(f0+W, f0-W)訊號並非為0
+1. 傅立葉轉換，在"time domain受限"的話在"frequency domain一定不能受限"  
+   故，實際上左右兩側(f0+W, f0-W)訊號並非為0
+2. 在time domain是real signal[純實數]，在frequency dimain就會是Hermitian Symmetric[共軛複數]
