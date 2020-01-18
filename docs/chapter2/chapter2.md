@@ -23,6 +23,7 @@
 
 ---補充---  
 1. 透過傅立葉轉換，得到正的頻率與負的頻率。但是，實際上是沒有負的頻率。  
-   正、負頻率在time domain來說是一種相位。藉由負頻率的輔助，可以得知time domain的相位    
+   正、負頻率在time domain來說是一種相位。藉由負頻率的輔助，可以展現time domain的相位    
    (ex: sin和cos在time domain波形相同，但是相位不同。  
       sin和cos傅立葉轉換後在正的頻率相同，而負的頻率正好相反。)  
+2. time domain純實數，frequency domain是對稱的。故，在此我們只需分析正的訊號。
