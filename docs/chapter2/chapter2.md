@@ -5,9 +5,10 @@
 
 ---名詞解釋---  
 
-Bandpass: 在某個頻帶通過訊號  
+bandpass: 在某個頻帶通過訊號  
 
-Bandpass signal: 定義一個中心頻率f0  
+f0: 在bandpass signal中定義的一個中心頻率(與fc不同)  
+fc(carrier): 通過傳送管道的載波(不一定在中心點, ex:電視訊號就在偏向左邊)
 
 real signal: 波是觀察的到的(儀器能夠感測到)
 
